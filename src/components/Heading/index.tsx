@@ -14,4 +14,5 @@ const Heading: React.FC<HeadingProps> = ({ color, children, ...rest }) => (
   </S.StyledHeading>
 );
 
+// asdasd
 export default Heading;
